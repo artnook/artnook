@@ -1,7 +1,7 @@
 <!-- <a href="https://profile.jeongkoo.com/"><img src="https://img.shields.io/badge/Porfoilo-Web-blue"/></a>
 <a href="https://www.notion.so/cucus/d5ecae2649a3484e9b236d79cd7d7fe4"><img src="https://img.shields.io/badge/Porfoilo-Notion-blue"/></a> -->
 
-<!-- ![https://komarev.com/ghpvc/?username=congchu](https://komarev.com/ghpvc/?username=congchu) -->
+![https://komarev.com/ghpvc/?username=artnook](https://komarev.com/ghpvc/?username=artnook)
 
 ## 👋 &nbsp;UI/UX 디자인 및 퍼블리셔 김태현 입니다. ☺️
 
