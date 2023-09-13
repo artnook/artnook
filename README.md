@@ -3,7 +3,7 @@
 
 ![https://komarev.com/ghpvc/?username=artnook](https://komarev.com/ghpvc/?username=artnook)
 
-## 👋 &nbsp;UI/UX 디자인 및 퍼블리셔 김태현 입니다. ☺️
+## 👋 &nbsp;UI/UX 디자인 & 퍼블리셔 김태현 입니다. ☺️
 
 ✔️ &nbsp;**트렌드한 디자인을 찾고 만드는것**에 관심이 많습니다.\
 
