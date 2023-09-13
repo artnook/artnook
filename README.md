@@ -24,7 +24,8 @@
 
 ### 💻 &nbsp;GitHub Analytics
 
-[![Github stats]![Anurag's github stats](https://github-readme-stats.vercel.app/api?artnook=artnook)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats]![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=artnook&show_icons=true&theme=cobalt)
+](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congchu&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats) -->
 
