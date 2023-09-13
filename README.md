@@ -1,6 +1,7 @@
-<a href="https://profile.jeongkoo.com/"><img src="https://img.shields.io/badge/Porfoilo-Web-blue"/></a>
-<a href="https://www.notion.so/cucus/d5ecae2649a3484e9b236d79cd7d7fe4"><img src="https://img.shields.io/badge/Porfoilo-Notion-blue"/></a>
-![https://komarev.com/ghpvc/?username=congchu](https://komarev.com/ghpvc/?username=congchu)
+<!-- <a href="https://profile.jeongkoo.com/"><img src="https://img.shields.io/badge/Porfoilo-Web-blue"/></a>
+<a href="https://www.notion.so/cucus/d5ecae2649a3484e9b236d79cd7d7fe4"><img src="https://img.shields.io/badge/Porfoilo-Notion-blue"/></a> -->
+
+<!-- ![https://komarev.com/ghpvc/?username=congchu](https://komarev.com/ghpvc/?username=congchu) -->
 
 ## 👋 &nbsp;UI/UX 디자인 및 퍼블리셔 김태현 입니다. ☺️
 
@@ -23,11 +24,11 @@
 
 ### 💻 &nbsp;GitHub Analytics
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=congchu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congchu&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
+[![Github stats]![Anurag's github stats](https://github-readme-stats.vercel.app/api?artnook=artnook)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congchu&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats) -->
 
 <!-- ### 🤝🏻 &nbsp;Links
 <a href="https://velog.io/@cookie004"><img src="https://img.shields.io/badge/-Velog-96f2d7?style=flat&logo=Velog&logoColor=white"/></a>
 <a href="mailto:cookie00421@gmail.com"><img src="https://img.shields.io/badge/-cookie00421@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/jeongkoo.dev"><img src="https://img.shields.io/badge/-@jeongkoo.dev-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
-
