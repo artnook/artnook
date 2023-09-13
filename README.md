@@ -5,10 +5,13 @@
 
 ## 👋 &nbsp;UI/UX 디자인 및 퍼블리셔 김태현 입니다. ☺️
 
-✔️ &nbsp;**세상을 이롭게 만드는 서비스**에 관심이 많습니다.\
-✔️ &nbsp;스타트업 환경에 맞는 **빠른 주기 개발**, **애자일 환경**에 익숙합니다.\
+✔️ &nbsp;**트렌드한 디자인을 찾고 만드는것**에 관심이 많습니다.\
+
+<!-- ✔️ &nbsp;스타트업 환경에 맞는 **빠른 주기 개발**, **애자일 환경**에 익숙합니다.\ -->
+
 ✔️ &nbsp;기술을 꾸준히 공부하고 **지식을 공유**하며 **함께 성장**하는 삶을 지향합니다.\
-✔️ &nbsp;저에 대해 궁금하시다면 [웹 프로필](https://profile.jeongkoo.com/) 또는 [노션 이력서](https://www.notion.so/cucus/FullStack-d5ecae2649a3484e9b236d79cd7d7fe4)를 방문해주세요.
+
+<!-- ✔️ &nbsp;저에 대해 궁금하시다면 [웹 프로필](https://profile.jeongkoo.com/) 또는 [노션 이력서](https://www.notion.so/cucus/FullStack-d5ecae2649a3484e9b236d79cd7d7fe4)를 방문해주세요. -->
 
 ### 🛠 &nbsp;Technical Skills
 
