@@ -1,6 +1,6 @@
 <a href="https://artnook.tistory.com/"><img src="https://img.shields.io/badge/Porfoilo-Tistory-blue"/></a>
 <a href="https://artnook.me/"><img src="https://img.shields.io/badge/Porfoilo-Porfolio-blue"/></a>
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20every one&fontSize=90)
 
 ## 👋 &nbsp;UI/UX 디자인 & 퍼블리셔 김태현 입니다. ☺️
 
