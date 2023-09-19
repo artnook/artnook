@@ -2,7 +2,6 @@
 <a href="https://artnook.me/"><img src="https://img.shields.io/badge/Porfoilo-Porfolio-blue"/></a>
 ![https://komarev.com/ghpvc/?username=artnook](https://komarev.com/ghpvc/?username=artnook)
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
-<p align='center'> Decorate GitHub Profile or any Repo like me! </p>
 
 ## 👋 &nbsp;UI/UX 디자인 & 퍼블리셔 김태현 입니다. ☺️
 
