@@ -1,5 +1,5 @@
-<a href="https://profile.jeongkoo.com/"><img src="https://img.shields.io/badge/Porfoilo-Web-blue"/></a>
-<a href="https://www.notion.so/cucus/d5ecae2649a3484e9b236d79cd7d7fe4"><img src="https://img.shields.io/badge/Porfoilo-Notion-blue"/></a>
+<--<a href="https://profile.jeongkoo.com/"><img src="https://img.shields.io/badge/Porfoilo-Web-blue"/></a>-->
+<a href="https://artnook.tistory.com/"><img src="https://img.shields.io/badge/Porfoilo-Tistory-blue"/></a>
 
 ![https://komarev.com/ghpvc/?username=artnook](https://komarev.com/ghpvc/?username=artnook)
 
