@@ -1,7 +1,7 @@
 <a href="https://artnook.tistory.com/"><img src="https://img.shields.io/badge/Porfoilo-Tistory-blue"/></a>
 <a href="https://artnook.me/"><img src="https://img.shields.io/badge/Porfoilo-Porfolio-blue"/></a>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Tae Hyun0815's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=TaeHyun0815's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 ## 👋 &nbsp;UI/UX 디자인 & 퍼블리셔 김태현 입니다. ☺️
 
 ✔️ &nbsp;**트렌드한 디자인을 찾고 만드는것**에 관심이 많습니다.\
