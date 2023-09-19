@@ -1,4 +1,3 @@
-<--<a href="https://profile.jeongkoo.com/"><img src="https://img.shields.io/badge/Porfoilo-Web-blue"/></a>-->
 <a href="https://artnook.tistory.com/"><img src="https://img.shields.io/badge/Porfoilo-Tistory-blue"/></a>
 
 ![https://komarev.com/ghpvc/?username=artnook](https://komarev.com/ghpvc/?username=artnook)
