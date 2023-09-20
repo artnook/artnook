@@ -7,6 +7,11 @@
 ✔️ &nbsp;**트렌드한 디자인을 찾고 만드는것**에 관심이 많습니다.\
 ✔️ &nbsp;기술을 꾸준히 공부하고 **지식을 공유**하며 **함께 성장**하는 삶을 지향합니다.\
 
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+	<p>✨ Platforms & Languages ✨</p>
+</div>
+
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
