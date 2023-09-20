@@ -49,12 +49,9 @@
 	<br>
 </div>
 
-<div align=center>
 [![Github stats]![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=artnook&show_icons=true&theme=cobalt)
 ](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congchu&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats) -->
 
 <!-- ### 🤝🏻 &nbsp;Links
 <a href="https://velog.io/@cookie004"><img src="https://img.shields.io/badge/-Velog-96f2d7?style=flat&logo=Velog&logoColor=white"/></a>
