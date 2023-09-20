@@ -2,10 +2,14 @@
 
 <a href="https://artnook.tistory.com/"><img src="https://img.shields.io/badge/Porfoilo-Tistory-blue"/></a>
 <a href="https://artnook.me/"><img src="https://img.shields.io/badge/Porfoilo-Porfolio-blue"/></a>
+
+<div align=center>
 ## 👋 &nbsp;계속 성장중인 김태현 입니다. ☺️
 
 ✔️ &nbsp;**트렌드한 디자인을 찾고 만드는것**에 관심이 많습니다.\
 ✔️ &nbsp;기술을 꾸준히 공부하고 **지식을 공유**하며 **함께 성장**하는 삶을 지향합니다.\
+
+</div>
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -48,13 +52,9 @@
 	<br>
 </div>
 
-<div>
-### 💻 &nbsp;GitHub Analytics
-
 [![Github stats]![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=artnook&show_icons=true&theme=cobalt)
 ](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congchu&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats) -->
 
