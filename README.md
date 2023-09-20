@@ -40,7 +40,7 @@
 	<a href="https://artnook.me">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
-	<a href="https://artnool.tistory.com">
+	<a href="https://artnook.tistory.com">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
 	<a href="mailto:kyb6079@naver.com">
