@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=TaeHyun0815's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <div align=center>
-## 👋 &nbsp;계속 성장중인 김태현 입니다. ☺️
+## 👋 &nbsp;I am constantly growing, Kim Tae-hyun. ☺️
 
-✔️ &nbsp;**트렌드한 디자인을 찾고 만드는것**에 관심이 많습니다.\
-✔️ &nbsp;기술을 꾸준히 공부하고 **지식을 공유**하며 **함께 성장**하는 삶을 지향합니다.
-
+✔️ &nbsp;**I am very interested in finding and creating **trendy designs**.\
+✔️ &nbsp;
+I aspire to a life of continually **studying technology**, **sharing knowledge**, and **growing together**.
 </div>
 
 <div align=center>
