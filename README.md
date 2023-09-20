@@ -49,4 +49,16 @@
 	<br>
 </div>
 
-[![Github stats]![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=artnook&show_icons=true&theme=cobalt)
+<div align=center>
+	<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artnook&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=artnook&show_icons=true">
+
+![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=artnook)
+
+<br>
+<p>🏆 Baekjoon solved rank 🏆</p>
+	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=artnook)](https://solved.ac/kycasdzxc)
+</div>
+<br>
