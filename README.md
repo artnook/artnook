@@ -3,7 +3,7 @@
 <div align=center>
 ## 👋 &nbsp;I am constantly growing, Kim Tae hyun. ☺️
 
-✔️ &&nbsp; I am very interested in finding and creating **trendy designs**.\
+✔️ &nbsp; I am very interested in finding and creating **trendy designs**.\
 ✔️ &nbsp;
 I aspire to a life of continually **studying technology**, **sharing knowledge**, and **growing together**.
 </div>
