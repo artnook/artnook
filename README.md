@@ -34,7 +34,6 @@ I aspire to a life of continually **studying technology**, **sharing knowledge**
 	<br>
 	<img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-	<img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white" />
 </div>
 <br/>
 <div align=center>
