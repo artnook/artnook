@@ -20,8 +20,8 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-	<img src="https://img.shields.io/badge/SASS%20SQL-F80000?style=flat&logo=SASS&logoColor=white" />
-	<img src="https://img.shields.io/badge/nodedotjs%20SQL-339933?style=flat&logo=nodedotjs&logoColor=white" />
+	<img src="https://img.shields.io/badge/SASS-F80000?style=flat&logo=SASS&logoColor=white" />
+	<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white" />
 </div>
 <br>
 <div align=center>
