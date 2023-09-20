@@ -30,6 +30,7 @@
 <div align=center>
 	<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<img src="https://img.shields.io/badge/ruby-CC342D?style=flat&logo=ruby&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
