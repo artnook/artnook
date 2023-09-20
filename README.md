@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=TaeHyun0815's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-<a href="https://artnook.tistory.com/"><img src="https://img.shields.io/badge/Porfoilo-Tistory-blue"/></a>
-<a href="https://artnook.me/"><img src="https://img.shields.io/badge/Porfoilo-Porfolio-blue"/></a>
-
 <div align=center>
 ## 👋 &nbsp;계속 성장중인 김태현 입니다. ☺️
 
