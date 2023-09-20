@@ -21,7 +21,7 @@
 	<br>
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 	<img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=SASS&logoColor=white" />
-	<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white" />
+	<img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white" />
 </div>
 <br>
 <div align=center>
