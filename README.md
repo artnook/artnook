@@ -54,6 +54,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artnook&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=artnook&show_icons=true">
 
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=artnook)
-
 <br>
