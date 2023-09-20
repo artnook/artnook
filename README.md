@@ -57,8 +57,3 @@
 ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=artnook)
 
 <br>
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=artnook)](https://solved.ac/artnook)
-</div>
-<br>
