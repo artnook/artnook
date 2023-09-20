@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=TaeHyun0815's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <div align=center>
-## 👋 &nbsp;I am constantly growing, Kim Tae hyun. ☺️
+## 👋 &nbsp;I am constantly growing, **Kim Tae hyun**. ☺️
 
 ✔️ &nbsp; I am very interested in finding and creating **trendy designs**.\
 ✔️ &nbsp;
